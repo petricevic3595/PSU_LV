@@ -9,6 +9,7 @@ rotirana = np.root90(img,-1)
 zrcalo=np.fliplr(img)
 res=img[::10,::10]
 
+
 plt.figure()
 plt.imshow(img, cmap="gray")
 plt.show()

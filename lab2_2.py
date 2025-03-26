@@ -29,6 +29,7 @@ for a in cyl:
 
     i+=1
 
+
 print(np.max(mpg6))
 print(np.mean(mpg6))
 print(np.min(mpg6))
